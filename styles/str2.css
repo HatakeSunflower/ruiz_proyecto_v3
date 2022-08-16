@@ -81,7 +81,7 @@ nav:hover {
 	position: relative;
 	z-index: -2;
 	top: 0px;
-	background-image: url(../ASSETS/traveller.jpg);
+	background-image: url(../assets/traveller.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
@@ -218,7 +218,7 @@ nav:hover {
 .ev0 {
 	margin-bottom: 30px;
 	height: 60px;
-	background-image: url(../ASSETS/traveller.jpg);
+	background-image: url(../assets/traveller.jpg);
 	background-position: center center;
 	background-size: cover;
 }
@@ -226,7 +226,7 @@ nav:hover {
 .seccion-eventos {
 	padding-top: 60px;
 	padding-bottom: 80px;
-	background-image: url(../ASSETS/Haunted_Forest.webp);
+	background-image: url(../assets/Haunted_Forest.webp);
 	background-position: center center;
 	background-size: cover;
 }
